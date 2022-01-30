@@ -1,7 +1,37 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f75e7fa-3517-4a1e-a4cd-aa062888bd79" name="Default Changelist" comment="" />
+    <list default="true" id="9f75e7fa-3517-4a1e-a4cd-aa062888bd79" name="Default Changelist" comment="new commit in home">
+      <change afterPath="$PROJECT_DIR$/hw3/les_1.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/les_10.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/les_2.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/les_3.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/les_4.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/les_5.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/les_6.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/les_7.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/les_8.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hw3/les_9.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -33,20 +63,32 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
-  <component name="RunManager" selected="Node.js.les_8.js">
-    <configuration name="WorkJS.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$APPLICATION_CONFIG_DIR$/scratches/WorkJS.js" working-dir="$PROJECT_DIR$">
+  <component name="RunManager" selected="Node.js.les_9.js">
+    <configuration name="les_3.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/hw3/les_3.js" working-dir="$PROJECT_DIR$/hw3">
       <method v="2" />
     </configuration>
-    <configuration name="les_8.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/hw2/les_8.js" working-dir="$PROJECT_DIR$/hw2">
+    <configuration name="les_4.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/hw3/les_4.js" working-dir="$PROJECT_DIR$/hw3">
+      <method v="2" />
+    </configuration>
+    <configuration name="les_5.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/hw3/les_5.js" working-dir="$PROJECT_DIR$/hw3">
+      <method v="2" />
+    </configuration>
+    <configuration name="les_6.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/hw3/les_6.js" working-dir="$PROJECT_DIR$/hw3">
+      <method v="2" />
+    </configuration>
+    <configuration name="les_9.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/hw3/les_9.js" working-dir="$PROJECT_DIR$/hw3">
       <method v="2" />
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Node.js.les_8.js" />
-        <item itemvalue="Node.js.WorkJS.js" />
+        <item itemvalue="Node.js.les_9.js" />
+        <item itemvalue="Node.js.les_6.js" />
+        <item itemvalue="Node.js.les_5.js" />
+        <item itemvalue="Node.js.les_4.js" />
+        <item itemvalue="Node.js.les_3.js" />
       </list>
     </recent_temporary>
   </component>
@@ -62,17 +104,42 @@
       <workItem from="1611221051211" duration="1265000" />
       <workItem from="1642792845938" duration="493000" />
       <workItem from="1642793391817" duration="642000" />
+      <workItem from="1642943996230" duration="583000" />
+      <workItem from="1642944614190" duration="40000" />
+      <workItem from="1643367339820" duration="925000" />
+      <workItem from="1643368286811" duration="3193000" />
+      <workItem from="1643558656508" duration="953000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1642793827691">
+    <state x="839" y="419" key="#Custom_Plugin_Repositories" timestamp="1643367960488">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1642793827691" />
+    <state x="839" y="419" key="#Custom_Plugin_Repositories/0.0.1920.1040@0.0.1920.1040" timestamp="1643367960488" />
+    <state x="184" y="86" width="1536" height="860" key="DiffContextDialog" timestamp="1642794490595">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="184" y="86" width="1536" height="860" key="DiffContextDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1642794490595" />
+    <state x="740" y="275" key="FileChooserDialogImpl" timestamp="1642794543106">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="740" y="275" key="FileChooserDialogImpl/0.0.1920.1040@0.0.1920.1040" timestamp="1642794543106" />
     <state x="838" y="418" key="Github.ShareDialog" timestamp="1642793959112">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
@@ -81,25 +148,29 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="772" y="225" key="Github.UntrackedFilesDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1642793999806" />
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1642793842001">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom" timestamp="1643559772870">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1642793842001" />
-    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1642793842001">
+    <state width="1877" height="282" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1643559772870" />
+    <state width="1877" height="282" key="GridCell.Tab.0.center" timestamp="1643559772869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1642793842001" />
-    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1642793842000">
+    <state width="1877" height="282" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1643559772869" />
+    <state width="1877" height="282" key="GridCell.Tab.0.left" timestamp="1643559772869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1642793842000" />
-    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1642793842001">
+    <state width="1877" height="282" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1643559772869" />
+    <state width="1877" height="282" key="GridCell.Tab.0.right" timestamp="1643559772869">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1642793842001" />
-    <state x="461" y="165" key="SettingsEditor" timestamp="1642793798182">
+    <state width="1877" height="282" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1643559772869" />
+    <state x="461" y="165" key="SettingsEditor" timestamp="1643368169558">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
-    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1642793798182" />
+    <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1643368169558" />
+    <state x="803" y="292" key="refactoring.ChangeSignatureDialog" timestamp="1643559056069">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="803" y="292" key="refactoring.ChangeSignatureDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1643559056069" />
   </component>
 </project>
