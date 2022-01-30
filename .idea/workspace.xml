@@ -19,18 +19,11 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="9f75e7fa-3517-4a1e-a4cd-aa062888bd79" name="Default Changelist" comment="new commit in home">
-      <change afterPath="$PROJECT_DIR$/hw3/les_1.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/les_10.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/les_2.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/les_3.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/les_4.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/les_5.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/les_6.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/les_7.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/les_8.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/hw3/les_9.js" afterDir="false" />
+    <list default="true" id="9f75e7fa-3517-4a1e-a4cd-aa062888bd79" name="Default Changelist" comment="new commit in homeWork">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3/les_10.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/les_10.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3/les_3.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/les_3.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/hw3/les_4.js" beforeDir="false" afterPath="$PROJECT_DIR$/hw3/les_4.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,8 +101,16 @@
       <workItem from="1642944614190" duration="40000" />
       <workItem from="1643367339820" duration="925000" />
       <workItem from="1643368286811" duration="3193000" />
-      <workItem from="1643558656508" duration="953000" />
+      <workItem from="1643558656508" duration="2046000" />
     </task>
+    <task id="LOCAL-00001" summary="new commit in homeWork">
+      <created>1643559833059</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1643559833059</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -126,6 +127,10 @@
       </map>
     </option>
     <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="new commit in homeWork" />
+    <option name="LAST_COMMIT_MESSAGE" value="new commit in homeWork" />
   </component>
   <component name="WindowStateProjectService">
     <state x="839" y="419" key="#Custom_Plugin_Repositories" timestamp="1643367960488">
@@ -168,6 +173,10 @@
       <screen x="0" y="0" width="1920" height="1040" />
     </state>
     <state x="461" y="165" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1643368169558" />
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2" timestamp="1643559849557">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="253" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1643559849557" />
     <state x="803" y="292" key="refactoring.ChangeSignatureDialog" timestamp="1643559056069">
       <screen x="0" y="0" width="1920" height="1040" />
     </state>

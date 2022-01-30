@@ -14,8 +14,8 @@ some(arr, function(item, i, arr) {});
 function  some (arr, callback) {
     //Ваша реализация метода
     var result = 'false';
-    if (!Array.isArray(arr)) throw new Error('Первый параметр обязателен и может принимать только массив');
-    if (typeof callback !== 'function') throw new Error('Второй параметр обязателен и может принимать только функцию');
+    if (!Array.isArray(arr)) throw new Error('Error: parameter type should be an array');
+    if (typeof callback !== 'function') throw new Error('Error: parameter type should be a function');
     let i, length = arr.length;
     for (i = 0; i < length; i = i + 1) {
         if (callback(arr[i]))
